@@ -1,6 +1,6 @@
 ### Hi I'm Abdullah 👋
 
-https://github.com/abdllahbrdk/abdllahbrdk/blob/main/banner.png
+![Design and Development].(https://github.com/abdllahbrdk/abdllahbrdk/blob/main/banner.png)
 
 A highlycompetent Software Quality Assurance Engineer from the U.S developing Manual/Automated tests in Java - Selenium, Cucumber, TestNG, JUnit - API testing, Postman, RestAssured for the past 3 years.
 
